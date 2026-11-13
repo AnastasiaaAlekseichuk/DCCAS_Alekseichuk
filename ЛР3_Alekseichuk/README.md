@@ -47,7 +47,7 @@ GROUP BY purchase_month, purchase_year, region, customer_state, state_name, stat
 | Рост GMV за янв–авг 2018 к янв–авг 2017, % | 143.4 |
 
 ## Дашборд DataLens
-Ссылка: ![https://datalens.yandex/anuty3sfnjgut?_share_link=public](https://datalens.yandex/anuty3sfnjgut?_share_link=public)
+Ссылка: [https://datalens.yandex/anuty3sfnjgut?_share_link=public](https://datalens.yandex/anuty3sfnjgut?_share_link=public)
 
 | № | Тип | Название |
 |---|---|---|
